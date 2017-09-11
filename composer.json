@@ -1,6 +1,6 @@
 {
     "name": "ilia/brain-games",
     "description": "project-lvl1-s148",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
