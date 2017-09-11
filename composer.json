@@ -1,14 +1,6 @@
 {
-    "name": "ilia/braingames",
-    "bin": ["bin/brain-games"],
-    "type": "library",
-    "description": "project-lvl1",
-    "authors": [
-        {
-            "name": "Ilia Tokarev",
-            "email": "upside2002@mail.ru"
-        }
-    ],
+    "name": "ilia/brain-games",
+    "description": "project-lvl1-s148",
+    "minimum-stability": "stable",
     "require": {}
-    "minimum-stability": "stable"
 }
