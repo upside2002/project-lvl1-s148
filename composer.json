@@ -3,7 +3,6 @@
     "bin": ["bin/brain-games"],
     "type": "library",
     "description": "project-lvl1",
-    "license": "proprietery",
     "authors": [
         {
             "name": "Ilia Tokarev",
